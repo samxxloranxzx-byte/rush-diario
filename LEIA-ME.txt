@@ -1,0 +1,16 @@
+
+SITE BIO - RUSH DIÁRIO MS
+
+Os links já estão configurados.
+
+PASSOS:
+
+1) Coloque sua imagem principal na pasta e renomeie para:
+logo.png
+
+2) Publique o site em:
+- Netlify
+- Vercel
+- GitHub Pages
+
+3) Depois use o link do site na bio do Instagram ou TikTok.
